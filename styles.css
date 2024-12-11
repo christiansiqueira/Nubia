@@ -1,0 +1,64 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+header {
+    background-color: #e9bebe;
+    color: rgb(8, 2, 2);
+    padding: 1rem;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 1rem;
+}
+
+nav ul li a {
+    color: rgb(5, 1, 1);
+    text-decoration: none;
+}
+
+main {
+    padding: 2rem;
+}
+
+.produto {
+    background-color: rgb(237, 240, 233);
+    border: 1px solid #070101;
+    margin: 1rem 0;
+    padding: 1rem;
+}
+
+button {
+    background-color: #333;
+    color: white;
+    border: none;
+    padding: 0.5rem 1rem;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #555;
+}
+
+section {
+    background-color: rgb(165, 162, 162);
+    border: 1px solid #ddd;
+    margin: 1rem 0;
+    padding: 1rem;
+}
+.produtos{
+    background-color: rgb(253, 249, 249);
+    border: 1px solid #ddd;
+    margin: 1rem 0;
+    padding: 1rem;
+}
